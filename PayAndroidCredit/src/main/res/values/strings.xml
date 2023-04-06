@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">creditsdk</string>
+    <string name="card_num_default">Card number</string>
+    <string name="card_num">Card#</string>
+    <string name="mmyy_default">MM/YY</string>
+    <string name="mmyy">M/Y</string>
+
+    <string name="cvc_default">CVV</string>
+    <string name="cvc">CVV</string>
+    <string name="holder_default">Name of holder</string>
+    <string name="holder_name">Name</string>
+    <string name="cardnumber_invalid">Card number is invalid</string>
+    <string name="cardmmyy_invalid">MM/YY  is invalid</string>
+    <string name="cardcvc_invalid">CVV  is invalid</string>
+    <string name="secureid_invalid">secureID  is invalid</string>
+    <string name="holder_invalid">Name of holder is invalid</string>
+    <string name="zip_default">ZIPCode</string>
+    <string name="zip">ZIP</string>
+    <string name="cardzip_invalid">ZIP  is invalid</string>
+    <string name="rounting_default">Routing  Number</string>
+    <string name="rounting">Routing</string>
+    <string name="routing_invalid">Routing Number is invalid</string>
+    <string name="account_default">Account  Number</string>
+    <string name="account">Account</string>
+    <string name="account_invalid">Account Number is invalid</string>
+    <string name="accounttype_default">Account Type</string>
+    <string name="accounttype">Type</string>
+    <string name="accounttype_invalid">Account Type is invalid</string>
+    <string name="checking_default">Checking</string>
+    <string name="checking">Checking</string>
+    <string name="checking_invalid">Checking is invalid</string>
+    <string name="saving_default">Saving</string>
+    <string name="saving">Saving</string>
+    <string name="saving_invalid">Saving is invalid</string>
+
+
+</resources>

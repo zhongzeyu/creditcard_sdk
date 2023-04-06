@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">creditsdk</string>
+    <string name="card_num_default">卡号</string>
+    <string name="card_num">卡号</string>
+    <string name="mmyy_default">MM/YY</string>
+    <string name="mmyy">M/Y</string>
+    <string name="cvc_default">CVV</string>
+    <string name="cvc">CVV</string>
+    <string name="holder_default">持卡人(或收款人)姓名</string>
+    <string name="holder_name">姓名</string>
+    <string name="cardnumber_invalid">卡号非法</string>
+    <string name="cardmmyy_invalid">过期时间非法</string>
+
+    <string name="cardcvc_invalid">CVC非法</string>
+    <string name="secureid_invalid">secureID非法</string>
+    <string name="holder_invalid">姓名非法</string>
+    <string name="zip_default">邮编</string>
+    <string name="zip">邮编</string>
+    <string name="cardzip_invalid">邮编非法</string>
+    <string name="rounting_default">路由</string>
+    <string name="rounting">路由</string>
+    <string name="routing_invalid">路由非法</string>
+    <string name="account_default">帐号</string>
+    <string name="account">帐号</string>
+    <string name="account_invalid">帐号非法</string>
+    <string name="accounttype_default">账户类型</string>
+    <string name="accounttype">类型</string>
+    <string name="accounttype_invalid">账户类型非法</string>
+    <string name="checking_default">支票帐户</string>
+    <string name="checking">支票</string>
+    <string name="checking_invalid">支票非法</string>
+    <string name="saving_default">储蓄帐户</string>
+    <string name="saving">储蓄</string>
+    <string name="saving_invalid">储蓄非法</string>
+
+</resources>

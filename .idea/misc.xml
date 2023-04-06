@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/drawable/bg_edittext.xml" value="0.1" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/drawable/mastercard.xml" value="0.1" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/drawable/paycard_gradient.xml" value="0.1" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/drawable/paycard_gradient_auth.xml" value="0.1" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/pay_zip.xml" value="0.27853260869565216" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/payaccountnumber.xml" value="0.23302938196555217" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/payaccounttype.xml" value="0.245018115942029" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/payaccounttypecheck.xml" value="0.23302938196555217" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/paycard.xml" value="0.33" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/paycard_num.xml" value="0.2695035460992908" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/paycard_shadow.xml" value="0.23302938196555217" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/paycvc.xml" value="0.2695035460992908" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/payholder.xml" value="0.1" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/paymmyy.xml" value="0.1" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/payroutingnumber.xml" value="0.23302938196555217" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/PayAndroidCredit/src/main/res/layout/payzip.xml" value="0.2695035460992908" />
+        <entry key="..\:/zhongzeyu/zhongzeyudoc/gits/doc-all/grubcreditcard_sdk/app/src/main/res/layout/activity_main.xml" value="0.2695035460992908" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
